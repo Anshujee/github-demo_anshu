@@ -6,3 +6,8 @@ My first GitHub project
 
 This project is used to practice Git, GitHub, and DevOps workflows!
 
+
+just check and clear the concept of pull request.
+
+
+
